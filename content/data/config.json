@@ -20,7 +20,8 @@
                 "type": "Link",
                 "label": "Documentation",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
-                "underline": "hover"
+                "underline": "hover",
+                "color": "inherit"
             }
         ]
     },
